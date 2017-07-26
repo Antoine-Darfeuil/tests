@@ -1,6 +1,19 @@
 M O U N T I N G   A   D I S K
 
-**Inside liveCD**
+**Find/list all hard drive partitions**
+
+Use `lsblk - list block devices`
+> $ sudo lsblk 
+
+> $ sudo lsblk -o NAME,FSTYPE,SIZE,MOUNTPOINT,LABEL
+
+
+*REM: Can also use `fdisk - manipulate disk partition table` to see hard drive*
+
+
+
+
+**Access Disk from inside liveCD**
 
 > $ sudo mkdir /media/odlhd
 
