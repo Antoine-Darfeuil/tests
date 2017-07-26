@@ -5,7 +5,7 @@
 
 
 
-## M O U N T I N G A   D I S K
+## MOUNTING A DISK
 
 **Find/list all hard drive partitions**
 
@@ -40,11 +40,20 @@ When finished :
 *Usefull links :*
 * link : [Dual boot Ubuntu 14.04 + 16.04 setup? WARNING NUL](Dual boot Ubuntu 14.04 + 16.04 setup?)
 
-**Etape 1 :** Use GParted from liveCD.
+
+
+**Etape 1 :** Free some space
+Use GParted from liveCD
 * Right-click on *swap* partition & do *swap off*
 * Right-click on hard drive : *Resize/Move* -> resize partition to unallocate disk space. 
 * Free space following (MiB)
+
 * link : [HowtoGeek : resize Ubuntu Partition](https://www.howtogeek.com/114503/how-to-resize-your-ubuntu-partitions/)
+
+**Etape 2:** Install Ubuntu
+Use Ubuntu 16 Installer
+-> install Ubuntu 16 alongside Ubuntu 14 sel
+
 
 
 REM: 
