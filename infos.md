@@ -39,10 +39,10 @@ When finished :
 
 *Usefull links :*
 
-[Dual boot Ubuntu 14.04 + 16.04 setup? WARNING:NUL](Dual boot Ubuntu 14.04 + 16.04 setup?)
+* link : [Dual boot Ubuntu 14.04 + 16.04 setup? WARNING NUL](Dual boot Ubuntu 14.04 + 16.04 setup?)
 
 
-**Etape 1 :**Use GParted from liveCD.
+**Etape 1 :** Use GParted from liveCD.
 Right-click on *swap* partition & do *swap off*
 Right-click on hard drive : *Resize/Move* -> resize partition to unallocate disk space. 
 Free space following (MiB)
@@ -56,4 +56,4 @@ USED space 47.4GB
 ### Other Linux Command
 > $ id - print real and effective user and group IDs
 
-* [askubuntu : external-hard-disk-read-only](https://askubuntu.com/questions/333287/external-hard-disk-read-only)
+* link : [askubuntu : external-hard-disk-read-only](https://askubuntu.com/questions/333287/external-hard-disk-read-only)
