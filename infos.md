@@ -38,14 +38,12 @@ When finished :
 ## PARTITIONING DISK - DUAL BOOT UBUNTU14/UBUNTU16
 
 *Usefull links :*
-
 * link : [Dual boot Ubuntu 14.04 + 16.04 setup? WARNING NUL](Dual boot Ubuntu 14.04 + 16.04 setup?)
 
-
 **Etape 1 :** Use GParted from liveCD.
-Right-click on *swap* partition & do *swap off*
-Right-click on hard drive : *Resize/Move* -> resize partition to unallocate disk space. 
-Free space following (MiB)
+* Right-click on *swap* partition & do *swap off*
+* Right-click on hard drive : *Resize/Move* -> resize partition to unallocate disk space. 
+* Free space following (MiB)
 * link : [HowtoGeek : resize Ubuntu Partition](https://www.howtogeek.com/114503/how-to-resize-your-ubuntu-partitions/)
 
 
