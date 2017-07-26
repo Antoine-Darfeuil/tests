@@ -16,7 +16,7 @@ Use `lsblk - list block devices`
 
 *REM: Can also use *`fdisk - manipulate disk partition table`* to see hard drive*
 
-**Links :** [askubutu : how-do-i-view-all-available-hdds-partitions](https://askubuntu.com/questions/182446/how-do-i-view-all-available-hdds-partitions)
+>**Links :** [askubutu : how-do-i-view-all-available-hdds-partitions](https://askubuntu.com/questions/182446/how-do-i-view-all-available-hdds-partitions)
 
 
 ### Access Disk from inside liveCD
@@ -41,7 +41,7 @@ Use GParted from liveCD
 * Right-click on hard drive : *Resize/Move* -> resize partition to unallocate disk space. 
 * Free space following (MiB)
 
-* link : [HowtoGeek : resize Ubuntu Partition](https://www.howtogeek.com/114503/how-to-resize-your-ubuntu-partitions/)
+>* link : [HowtoGeek : resize Ubuntu Partition](https://www.howtogeek.com/114503/how-to-resize-your-ubuntu-partitions/)
 
 **Etape 2:** Install Ubuntu
 Use Ubuntu 16 Installer
@@ -55,4 +55,4 @@ Use Ubuntu 16 Installer
 ## Other Linux Command
 > $ id - print real and effective user and group IDs
 
-* link : [askubuntu : external-hard-disk-read-only](https://askubuntu.com/questions/333287/external-hard-disk-read-only)
+>* link : [askubuntu : external-hard-disk-read-only](https://askubuntu.com/questions/333287/external-hard-disk-read-only)
