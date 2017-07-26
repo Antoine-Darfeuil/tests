@@ -7,7 +7,7 @@
 
 ## MOUNTING A DISK
 
-**Find/list all hard drive partitions**
+### Find/list all hard drive partitions
 
 Use `lsblk - list block devices`
 > $ sudo lsblk 
@@ -16,12 +16,10 @@ Use `lsblk - list block devices`
 
 *REM: Can also use *`fdisk - manipulate disk partition table`* to see hard drive*
 
-
-Links :
-* [askubutu : how-do-i-view-all-available-hdds-partitions](https://askubuntu.com/questions/182446/how-do-i-view-all-available-hdds-partitions)
+**Links :** [askubutu : how-do-i-view-all-available-hdds-partitions](https://askubuntu.com/questions/182446/how-do-i-view-all-available-hdds-partitions)
 
 
-**Access Disk from inside liveCD**)
+### Access Disk from inside liveCD
 
 > $ sudo mkdir /media/odlhd
 
@@ -37,11 +35,6 @@ When finished :
 
 ## PARTITIONING DISK - DUAL BOOT UBUNTU14/UBUNTU16
 
-*Usefull links :*
-* link : [Dual boot Ubuntu 14.04 + 16.04 setup? WARNING NUL](Dual boot Ubuntu 14.04 + 16.04 setup?)
-
-
-
 **Etape 1 :** Free some space
 Use GParted from liveCD
 * Right-click on *swap* partition & do *swap off*
@@ -52,15 +45,14 @@ Use GParted from liveCD
 
 **Etape 2:** Install Ubuntu
 Use Ubuntu 16 Installer
--> install Ubuntu 16 alongside Ubuntu 14 sel
+-> install Ubuntu 16 alongside Ubuntu 14 selected
 
 
 
-REM: 
-Free space 104.6GB
-USED space 47.4GB
 
-### Other Linux Command
+
+
+## Other Linux Command
 > $ id - print real and effective user and group IDs
 
 * link : [askubuntu : external-hard-disk-read-only](https://askubuntu.com/questions/333287/external-hard-disk-read-only)
