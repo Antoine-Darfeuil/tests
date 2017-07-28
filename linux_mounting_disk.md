@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 ## MOUNTING A DISK
 
 ### Find/list all hard drive partitions
@@ -46,6 +39,20 @@ Use GParted from liveCD
 **Etape 2:** Install Ubuntu
 Use Ubuntu 16 Installer
 -> install Ubuntu 16 alongside Ubuntu 14 selected
+
+
+
+
+
+
+
+
+
+## Autres trucs :
+* [AksUbuntu : live USB on a 2 partition USB Drive](https://askubuntu.com/questions/423300/live-usb-on-a-2-partition-usb-drive)
+
+
+
 
 
 
