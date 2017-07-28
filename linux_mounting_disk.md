@@ -6,7 +6,7 @@
 
 >***Disks***
 
->***StartUp Disk Creator***
+>***StartUp Disk Creator*** -> **to make bootable USB Drive***
 
 ## MOUNTING A DISK
 
