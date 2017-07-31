@@ -17,7 +17,9 @@ Use `lsblk - list block devices`
 
 > $ sudo lsblk -o NAME,FSTYPE,SIZE,MOUNTPOINT,LABEL
 
-*REM: Can also use *`fdisk - manipulate disk partition table`* to see hard drive*
+*-or-*
+
+Use `fdisk - manipulate disk partition table`* to see hard drive
 
 >**Links :** [askubutu : how-do-i-view-all-available-hdds-partitions](https://askubuntu.com/questions/182446/how-do-i-view-all-available-hdds-partitions)
 
