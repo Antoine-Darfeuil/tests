@@ -2,7 +2,7 @@
 
 ### Lectures
 
-- [Stanford - UFLDL Deep Learning Tutorial](shttp://ufldl.stanford.edu/tutorial/)
+- [Stanford - UFLDL Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
 - [Stanford - CS231n: Convolutional Neural Networks for Visual Recognition [Spring 2017]](http://cs231n.stanford.edu/syllabus.html)
 
 ### Books
@@ -16,16 +16,24 @@
 - https://www.coursera.org/learn/neural-networks
 
 ### Youtube
-- [Sentdex - Practical Machine Learning Tutorial]()
+- [Sentdex - Practical Machine Learning Tutorial](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
 
-### Frameworks
+### DL Frameworks
 
 - [MXNet - The Straight Dope](http://thestraightdope.mxnet.io/)
 - [Caffe - Tour](http://caffe.berkeleyvision.org/tutorial/)
 - [Caffe - Examples](https://github.com/BVLC/caffe/tree/master/examples)
 
 
+### ML Frameworks
 
+- [Scikit Learn - User Guide](http://scikit-learn.org/stable/user_guide.html)
+- [Scikit Learn - Tutorials](http://scikit-learn.org/stable/tutorial/index.html)
+
+
+### Deep Learning Readings
+
+- [Colah's Blog](http://colah.github.io/)
 
 
 
@@ -50,8 +58,8 @@
 
 - [Udacity - Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
 - [Udacity - Model Building and Validation](https://www.udacity.com/course/model-building-and-validation--ud919)
+- [Udacity - Machine Learning by GeorgiaTech](https://www.udacity.com/course/machine-learning--ud262) [**]
 
-- [Udicaity - Machine Learning by GeorgiaTech](https://www.udacity.com/course/machine-learning--ud262) [**]
 
 
 
