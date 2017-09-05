@@ -2,16 +2,15 @@
 
 ### Lectures
 
-- http://ufldl.stanford.edu/tutorial/
-- http://cs231n.stanford.edu/syllabus.html
-- [MXNet - The Straight Dope](http://thestraightdope.mxnet.io/)
+- [Stanford - UFLDL Deep Learning Tutorial](shttp://ufldl.stanford.edu/tutorial/)
+- [Stanford - CS231n: Convolutional Neural Networks for Visual Recognition [Spring 2017]](http://cs231n.stanford.edu/syllabus.html)
 
 ### Books
 
-- http://www.deeplearningbook.org/
-- http://neuralnetworksanddeeplearning.com/
+- [Deep Learning [Bible] (Goodfellow 2016)](http://www.deeplearningbook.org/)
+- [Neural Networks and Deep Learning (Nielsen 2017)](http://neuralnetworksanddeeplearning.com/)
 
-### MOOCS - Coursera
+### Moocs - Coursera
 
 - https://www.coursera.org/learn/machine-learning
 - https://www.coursera.org/learn/neural-networks
@@ -21,8 +20,15 @@
 
 ### Frameworks
 
+- [MXNet - The Straight Dope](http://thestraightdope.mxnet.io/)
 - [Caffe - Tour](http://caffe.berkeleyvision.org/tutorial/)
 - [Caffe - Examples](https://github.com/BVLC/caffe/tree/master/examples)
+
+
+
+
+
+
 
 ## Reinforcement Learning
 
@@ -31,9 +37,12 @@
 
 - [Reinforcement Learning - An Introduction (S. Sutton 2012)](http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf)
 
-### MOOCS
+### Moocs
 
 - [Udacity - Reinforcment Learning by GeorgiaTech](https://www.udacity.com/course/reinforcement-learning--ud600)
+
+
+
 
 
 
@@ -42,14 +51,14 @@
 - [Udacity - Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
 - [Udacity - Model Building and Validation](https://www.udacity.com/course/model-building-and-validation--ud919)
 
-- [Udicaity - Machine Learning by georgiaTech](https://www.udacity.com/course/machine-learning--ud262) [**]
+- [Udicaity - Machine Learning by GeorgiaTech](https://www.udacity.com/course/machine-learning--ud262) [**]
 
 
 
 
 ## Programming for Art
 
-- [Daniel Shiffman - Programming from A to Z _ Fall 2017](https://github.com/shiffman/A2Z-F17)
+- [Daniel Shiffman - Programming from A to Z (Fall 2017)](https://github.com/shiffman/A2Z-F17)
 
 LSTM
 
