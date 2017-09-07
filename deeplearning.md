@@ -3,6 +3,7 @@
 # En Cours
 
 - [Stanford - CS231n: Convolutional Neural Networks for Visual Recognition [Spring 2017]](http://cs231n.stanford.edu/syllabus.html)
+- http://cs.stanford.edu/people/karpathy/cs231nfiles/minimal_net.html
 - [Sentdex - Practical Machine Learning Tutorial](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
 - [MXNet - The Straight Dope](http://thestraightdope.mxnet.io/)
 
@@ -17,6 +18,7 @@
 
 - [Stanford - UFLDL Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
 - [Stanford - CS231n: Convolutional Neural Networks for Visual Recognition [Spring 2017]](http://cs231n.stanford.edu/syllabus.html)
+- [Stanford - CS231n: Lecture Notes](http://cs231n.github.io/)
 - [Université Sherbrooke - IFT 725 - Réseau neuronaux](http://info.usherbrooke.ca/hlarochelle/cours/ift725_A2013/contenu.html)
 
 ### Books
