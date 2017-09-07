@@ -1,9 +1,23 @@
+
+
+# En Cours
+
+- [Stanford - CS231n: Convolutional Neural Networks for Visual Recognition [Spring 2017]](http://cs231n.stanford.edu/syllabus.html)
+- [Sentdex - Practical Machine Learning Tutorial](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
+- [MXNet - The Straight Dope](http://thestraightdope.mxnet.io/)
+
+
+
+
+
+---
 # Machine Learning / Deep Learning
 
 ### Lectures
 
 - [Stanford - UFLDL Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
 - [Stanford - CS231n: Convolutional Neural Networks for Visual Recognition [Spring 2017]](http://cs231n.stanford.edu/syllabus.html)
+- [Université Sherbrooke - IFT 725 - Réseau neuronaux](http://info.usherbrooke.ca/hlarochelle/cours/ift725_A2013/contenu.html)
 
 ### Books
 
@@ -37,8 +51,8 @@
 
 
 
-
-## Reinforcement Learning
+---
+# Reinforcement Learning
 
 
 ### Books
@@ -53,8 +67,8 @@
 
 
 
-
-## Data Science 
+---
+# Data Science 
 
 - [Udacity - Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
 - [Udacity - Model Building and Validation](https://www.udacity.com/course/model-building-and-validation--ud919)
@@ -66,8 +80,8 @@
 - [t-SNE - Blog and Implementation Source Code in multiple languages](http://lvdmaaten.github.io/tsne/)
 
 
-
-## Programming for Art
+---
+# Programming for Art
 
 - [Daniel Shiffman - Programming from A to Z (Fall 2017)](https://github.com/shiffman/A2Z-F17)
 
@@ -79,9 +93,9 @@ LSTM
 
 
 
-
-
-## Autres
+---
+---
+# Autres
 
 ### Kalman Filters
 - [Kalman and Bayesian Filters in Python [Book]](http://nbviewer.jupyter.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb)
