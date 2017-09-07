@@ -61,6 +61,9 @@
 - [Udacity - Machine Learning by GeorgiaTech](https://www.udacity.com/course/machine-learning--ud262) [**]
 
 
+### Dimensionality Reduction
+
+- [t-SNE - Blog and Implementation Source Code in multiple languages](http://lvdmaaten.github.io/tsne/)
 
 
 
