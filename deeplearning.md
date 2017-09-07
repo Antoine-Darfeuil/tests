@@ -6,7 +6,7 @@
 - http://cs.stanford.edu/people/karpathy/cs231nfiles/minimal_net.html
 - [Sentdex - Practical Machine Learning Tutorial](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
 - [MXNet - The Straight Dope](http://thestraightdope.mxnet.io/)
-
+- [Caffe - Tour](http://caffe.berkeleyvision.org/tutorial/)
 
 
 
@@ -39,6 +39,7 @@
 - [MXNet - The Straight Dope](http://thestraightdope.mxnet.io/)
 - [Caffe - Tour](http://caffe.berkeleyvision.org/tutorial/)
 - [Caffe - Examples](https://github.com/BVLC/caffe/tree/master/examples)
+- [ConvNetjs - GitHub](https://github.com/karpathy/convnetjs)
 
 
 ### ML Frameworks
@@ -65,7 +66,9 @@
 
 - [Udacity - Reinforcment Learning by GeorgiaTech](https://www.udacity.com/course/reinforcement-learning--ud600)
 
+### RL FrameWorks
 
+- [REINFORCEjs](http://cs.stanford.edu/people/karpathy/reinforcejs/index.html)
 
 
 
