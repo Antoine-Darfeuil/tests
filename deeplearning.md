@@ -9,6 +9,10 @@
 - [Caffe - Tour](http://caffe.berkeleyvision.org/tutorial/)
 
 
+### A voir [??]
+
+- http://adventuresinmachinelearning.com/neural-networks-tutorial/
+- https://www.citylab.com/life/2014/04/first-look-how-googles-self-driving-car-handles-city-streets/8977/
 
 
 ---
