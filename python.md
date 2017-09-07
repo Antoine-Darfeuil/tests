@@ -4,9 +4,12 @@
 - [LearnPython.org [MIT advice]](http://www.learnpython.org/)
 
 
+## Tutorials
+
+- [Animation with pyLab](http://www.courspython.com/animations.html)
+
 
 ## Python Modules
-
 
 ### Plotting
 - [Seaborn: statistical data visualization¶](https://seaborn.pydata.org/)
