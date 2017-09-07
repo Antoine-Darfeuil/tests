@@ -13,7 +13,7 @@
 
 - http://adventuresinmachinelearning.com/neural-networks-tutorial/
 - https://www.citylab.com/life/2014/04/first-look-how-googles-self-driving-car-handles-city-streets/8977/
-
+- https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
 
 ---
 # Machine Learning / Deep Learning
@@ -55,6 +55,17 @@
 ### Deep Learning Readings
 
 - [Colah's Blog](http://colah.github.io/)
+
+#### Articles
+
+- [Viz Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+
+
+
+### People Deep Learning Ressources List
+
+- https://handong1587.github.io/deep_learning/2015/10/09/dl-tutorials.html#mxnet
+
 
 
 
