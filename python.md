@@ -1,4 +1,10 @@
 
+# Tutorial for Data Science / Machine Learning
+
+- [LearnPython.org [MIT advice]](http://www.learnpython.org/)
+
+
+
 ## Python Modules
 
 
