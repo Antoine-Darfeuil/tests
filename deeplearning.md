@@ -6,7 +6,7 @@
 - http://cs.stanford.edu/people/karpathy/cs231nfiles/minimal_net.html
 - [Sentdex - Practical Machine Learning Tutorial](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
 - [MXNet - The Straight Dope](http://thestraightdope.mxnet.io/)
-- [Caffe - Tour](http://caffe.berkeleyvision.org/tutorial/)
+- [**Caffe - Tour**](http://caffe.berkeleyvision.org/tutorial/)
 
 > Python [[link]](https://github.com/Antoine-Darfeuil/tests/blob/master/python.md)
 
