@@ -8,6 +8,7 @@
 - [MXNet - The Straight Dope](http://thestraightdope.mxnet.io/)
 - [Caffe - Tour](http://caffe.berkeleyvision.org/tutorial/)
 
+> Python [[link]](https://github.com/Antoine-Darfeuil/tests/blob/master/python.md)
 
 ### A voir [??]
 
@@ -15,6 +16,7 @@
 - https://www.citylab.com/life/2014/04/first-look-how-googles-self-driving-car-handles-city-streets/8977/
 - https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/ (Viz ConvNet)
 - http://molefrog.com/pidnn-talk/ (PIDNN)
+- [matplotlib snippets](http://www.jdhp.org/docs/notebook/python_matplotlib_snippets_en.html)
 
 ---
 # Machine Learning / Deep Learning
