@@ -61,13 +61,13 @@
 
 #### Articles
 
-- [Viz Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+- [Vizualizing Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+- [Neural Network from scratch in Python](http://adventuresinmachinelearning.com/neural-networks-tutorial/)
 
 
+### People Ressources List
 
-### People Deep Learning Ressources List
-
-- https://handong1587.github.io/deep_learning/2015/10/09/dl-tutorials.html#mxnet
+- [List 1 > Deep Learning Tutorials](https://handong1587.github.io/deep_learning/2015/10/09/dl-tutorials.html#mxnet)
 
 
 
