@@ -123,6 +123,9 @@ LSTM
 ---
 # Autres
 
+### Convex Optimization
+
+
 ### Kalman Filters
 - [Kalman and Bayesian Filters in Python [Book]](http://nbviewer.jupyter.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb)
 - [Kalman and Bayesian Filtes in Python [GitHub]](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
