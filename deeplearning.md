@@ -3,8 +3,9 @@
 # En Cours
 
 - [Stanford - CS231n: Convolutional Neural Networks for Visual Recognition [Spring 2017]](http://cs231n.stanford.edu/syllabus.html)
-- [Stanfor - MLP Notebook](http://cs.stanford.edu/people/karpathy/cs231nfiles/minimal_net.html) *[Done: 80%]*
-- [Sentdex - Practical Machine Learning Tutorial](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
+- [Stanford - CS231n: Linear Classif](http://cs231n.github.io/linear-classify/)
+- [Stanford - MLP Notebook](http://cs.stanford.edu/people/karpathy/cs231nfiles/minimal_net.html) *[Done: 80%]*
+- [Sentdex - Practical Machine Learning Tutorial](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/) [p28 - SVM]
 - [MXNet - The Straight Dope](http://thestraightdope.mxnet.io/)
 - [**Caffe - Tour**](http://caffe.berkeleyvision.org/tutorial/)
 
@@ -53,6 +54,10 @@
 
 - [Scikit Learn - User Guide](http://scikit-learn.org/stable/user_guide.html)
 - [Scikit Learn - Tutorials](http://scikit-learn.org/stable/tutorial/index.html)
+
+
+### Datasets
+> [Datasets Link ...](https://github.com/Antoine-Darfeuil/tests/blob/master/datasets.md)
 
 
 ### Deep Learning Readings
