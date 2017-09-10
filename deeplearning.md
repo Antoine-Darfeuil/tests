@@ -102,6 +102,9 @@
 
 - [t-SNE - Blog and Implementation Source Code in multiple languages](http://lvdmaaten.github.io/tsne/)
 
+### Books
+
+- [Convex Optimization [Stanford]](https://stanford.edu/~boyd/cvxbook/)
 
 ---
 # Programming for Art
