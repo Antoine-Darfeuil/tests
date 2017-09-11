@@ -27,6 +27,7 @@
 - [Stanford - UFLDL Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
 - [Stanford - CS231n: Convolutional Neural Networks for Visual Recognition [Spring 2017]](http://cs231n.stanford.edu/syllabus.html)
 - [Stanford - CS231n: Lecture Notes](http://cs231n.github.io/)
+- [Stanford - CS229: Machine Learning [Andrew Ng]](http://cs229.stanford.edu/)
 - [Université Sherbrooke - IFT 725 - Réseau neuronaux](http://info.usherbrooke.ca/hlarochelle/cours/ift725_A2013/contenu.html)
 
 ### Books
