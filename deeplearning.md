@@ -22,10 +22,7 @@
 - http://adventuresinmachinelearning.com/neural-networks-tutorial/ (Neural Net from scratch in python)
 - https://www.citylab.com/life/2014/04/first-look-how-googles-self-driving-car-handles-city-streets/8977/ (Google av)
 - https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/ (Viz ConvNet)
-
-### A faire
-
-- http://molefrog.com/pidnn-talk/ (PIDNN)
+- [Deep Learning for decision - Youtube](https://www.youtube.com/watch?v=EtMyH_--vnU)
 
 
 ---
@@ -128,6 +125,10 @@
 LSTM
 
 
+---
+### Trashs
+
+- http://molefrog.com/pidnn-talk/ (PIDNN)
 
 
 
