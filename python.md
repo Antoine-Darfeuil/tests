@@ -7,6 +7,8 @@
 ## Tutorials
 
 - [Animation with pyLab](http://www.courspython.com/animations.html)
+- [Matplotlib snippets](http://www.jdhp.org/docs/notebook/python_matplotlib_snippets_en.html)
+
 
 
 ## Python Modules
