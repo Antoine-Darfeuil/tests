@@ -15,7 +15,6 @@
 
 #### Python
 > Python [[link]](https://github.com/Antoine-Darfeuil/tests/blob/master/python.md)
-- [matplotlib snippets](http://www.jdhp.org/docs/notebook/python_matplotlib_snippets_en.html)
 
 ### A voir [??]
 
