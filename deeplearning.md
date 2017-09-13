@@ -25,6 +25,7 @@
 - http://adventuresinmachinelearning.com/neural-networks-tutorial/ (Neural Net from scratch in python)
 - https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/ (Viz ConvNet)
 - https://github.com/apache/incubator-mxnet/tree/master/example/svm_mnist (mxnet svm)
+- http://scikit-learn.org/stable/auto_examples/applications/plot_model_complexity_influence.html#sphx-glr-auto-examples-applications-plot-model-complexity-influence-py (scikit-learn)
 
 ---
 # Machine Learning / Deep Learning
