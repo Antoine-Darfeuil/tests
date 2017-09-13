@@ -50,16 +50,14 @@
 
 ### DL Frameworks
 
-- [MXNet - The Straight Dope](http://thestraightdope.mxnet.io/)
-- [Caffe - Tour](http://caffe.berkeleyvision.org/tutorial/)
-- [Caffe - Examples](https://github.com/BVLC/caffe/tree/master/examples)
-- [ConvNetjs - GitHub](https://github.com/karpathy/convnetjs)
+- [**MXNet**](https://mxnet.incubator.apache.org/) >> [[The Straight Dope]](http://thestraightdope.mxnet.io/) >> [[GitHub - Examples]](https://github.com/apache/incubator-mxnet/tree/master/example)
+- [**Caffe**](http://caffe.berkeleyvision.org/) >> [[Tour]](http://caffe.berkeleyvision.org/tutorial/) >> [[Examples]](https://github.com/BVLC/caffe/tree/master/examples)
+- [**ConvNetjs**](http://cs.stanford.edu/people/karpathy/convnetjs/) >> [[GitHub]](https://github.com/karpathy/convnetjs)
 
 
 ### ML Frameworks
 
-- [Scikit Learn - User Guide](http://scikit-learn.org/stable/user_guide.html)
-- [Scikit Learn - Tutorials](http://scikit-learn.org/stable/tutorial/index.html)
+- [Scikit-Learn](http://scikit-learn.org/stable/index.html) >> [[User Guide: 1.Supervised, 2.Unsupervised]](http://scikit-learn.org/stable/user_guide.html) >> [[Tutorials]](http://scikit-learn.org/stable/tutorial/index.html)
 
 
 ### Datasets
