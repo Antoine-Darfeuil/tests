@@ -24,6 +24,7 @@
 ### A Faire
 - http://adventuresinmachinelearning.com/neural-networks-tutorial/ (Neural Net from scratch in python)
 - https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/ (Viz ConvNet)
+- https://github.com/apache/incubator-mxnet/tree/master/example/svm_mnist (mxnet svm)
 
 ---
 # Machine Learning / Deep Learning
