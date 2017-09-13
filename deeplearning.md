@@ -18,18 +18,19 @@
 
 ### A voir [??]
 
-- http://adventuresinmachinelearning.com/neural-networks-tutorial/ (Neural Net from scratch in python)
 - https://www.citylab.com/life/2014/04/first-look-how-googles-self-driving-car-handles-city-streets/8977/ (Google av)
-- https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/ (Viz ConvNet)
 - [Deep Learning for decision - Youtube](https://www.youtube.com/watch?v=EtMyH_--vnU)
 
+### A Faire
+- http://adventuresinmachinelearning.com/neural-networks-tutorial/ (Neural Net from scratch in python)
+- https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/ (Viz ConvNet)
 
 ---
 # Machine Learning / Deep Learning
 
 ### Lectures
 
-- [Stanford - UFLDL Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
+- [Stanford - UFLDL Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) >> [[GitHub - Starter Code]](https://github.com/amaas/stanford_dl_ex)
 - [Stanford - CS231n: Convolutional Neural Networks for Visual Recognition [Spring 2017]](http://cs231n.stanford.edu/syllabus.html) >> [[Lecture Notes]](http://cs231n.github.io/)
 - [Stanford - CS229: Machine Learning [Andrew Ng]](http://cs229.stanford.edu/)
 - [Université Sherbrooke - IFT 725 - Réseau neuronaux](http://info.usherbrooke.ca/hlarochelle/cours/ift725_A2013/contenu.html)
@@ -98,6 +99,10 @@
 
 - [REINFORCEjs](http://cs.stanford.edu/people/karpathy/reinforcejs/index.html)
 
+
+### GitHub Repos
+
+- [Deep Reinforcement Learning Networks (Papers List)](https://github.com/5vision/deep-reinforcement-learning-networks)
 
 
 ---
