@@ -2,7 +2,7 @@
 # Tutorial for Data Science / Machine Learning
 
 - [LearnPython.org [MIT advice]](http://www.learnpython.org/)
-
+- [Stanford CS231 : Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 
 ## Tutorials
 
