@@ -44,9 +44,9 @@
 
 ### Moocs - Coursera
 
-- https://www.coursera.org/learn/machine-learning
-- https://www.coursera.org/learn/neural-networks
-- https://www.coursera.org/specializations/deep-learning
+- [Machine Learning [Andrew Ng]](https://www.coursera.org/learn/machine-learning)
+- [Deep Learning [Andrew Ng]](https://www.coursera.org/specializations/deep-learning)
+- [Neural Networks [Hinton]](https://www.coursera.org/learn/neural-networks)
 
 ### Youtube
 - [Sentdex - Practical Machine Learning Tutorial](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
