@@ -96,6 +96,11 @@
 
 - [Udacity - Reinforcment Learning by GeorgiaTech](https://www.udacity.com/course/reinforcement-learning--ud600)
 
+### Lectures
+
+- [Lecture](https://katefvision.github.io/)
+
+
 ### RL FrameWorks
 
 - [REINFORCEjs](http://cs.stanford.edu/people/karpathy/reinforcejs/index.html)
