@@ -67,11 +67,12 @@
 > [Datasets Link ...](https://github.com/Antoine-Darfeuil/tests/blob/master/datasets.md)
 
 
-### Deep Learning Readings
+### Deep Learning ***
 
 - [Colah's Blog](http://colah.github.io/)
+- [Google Brain - Big Picture (browser deep learning)](https://research.google.com/bigpicture/)
 
-#### Articles
+### Articles
 
 - [Vizualizing Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 - [Neural Network from scratch in Python](http://adventuresinmachinelearning.com/neural-networks-tutorial/)
