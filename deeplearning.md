@@ -54,6 +54,7 @@
 ### DL Frameworks
 
 - [**MXNet**](https://mxnet.incubator.apache.org/) >> [[The Straight Dope]](http://thestraightdope.mxnet.io/) >> [[GitHub - Examples]](https://github.com/apache/incubator-mxnet/tree/master/example)
+- [**Tensorflow**](https://www.tensorflow.org/) >> [[Tutorials]](https://www.tensorflow.org/tutorials/)
 - [**Caffe**](http://caffe.berkeleyvision.org/) >> [[Tour]](http://caffe.berkeleyvision.org/tutorial/) >> [[Examples]](https://github.com/BVLC/caffe/tree/master/examples)
 - [**ConvNetjs**](http://cs.stanford.edu/people/karpathy/convnetjs/) >> [[GitHub]](https://github.com/karpathy/convnetjs)
 
