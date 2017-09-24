@@ -71,7 +71,9 @@
 ### Deep Learning ***
 
 - [Colah's Blog](http://colah.github.io/)
-- [Google Brain - Big Picture (browser deep learning)](https://research.google.com/bigpicture/)
+- [Google Brain - Big Picture (Internet Browser Deep Learning Demos)](https://research.google.com/bigpicture/)
+- [Article: The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) >> [GitHub RNN Code](https://github.com/karpathy/char-rnn)
+- [Andrej Kaparthy Blog](http://karpathy.github.io/)
 
 ### Articles
 
