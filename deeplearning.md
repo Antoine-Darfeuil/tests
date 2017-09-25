@@ -21,7 +21,8 @@
 - https://www.citylab.com/life/2014/04/first-look-how-googles-self-driving-car-handles-city-streets/8977/ (Google av)
 - [Deep Learning for decision - Youtube](https://www.youtube.com/watch?v=EtMyH_--vnU)
 - ***Recurrent Network:***
-- https://www.youtube.com/watch?v=BwmddtPFWtA (siraj: more links in the description)
+- https://www.youtube.com/watch?v=BwmddtPFWtA (siraj: rnn !! more links in the description)
+- https://www.youtube.com/watch?v=9zhrxE5PQgY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&index=16 (sriaj: lstm)
 - https://www.youtube.com/watch?v=4rG8IsKdC3U
 - https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
 - https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
