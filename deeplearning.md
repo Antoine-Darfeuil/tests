@@ -21,12 +21,13 @@
 - https://www.citylab.com/life/2014/04/first-look-how-googles-self-driving-car-handles-city-streets/8977/ (Google av)
 - [Deep Learning for decision - Youtube](https://www.youtube.com/watch?v=EtMyH_--vnU)
 - ***Recurrent Network:***
-- https://www.youtube.com/watch?v=BwmddtPFWtA
+- https://www.youtube.com/watch?v=BwmddtPFWtA (siraj: more links in the description)
 - https://www.youtube.com/watch?v=4rG8IsKdC3U
 - https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
 - https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
 - http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/ >> https://gist.github.com/hnykda/c362f0ad488e3b289394
 - https://github.com/shiffman/NOC-S17-2-Intelligence-Learning/blob/master/week6-rnn-tensorflow/README.md (daniel shiffman)
+- https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/
 
 ### A Faire
 - http://adventuresinmachinelearning.com/neural-networks-tutorial/ (Neural Net from scratch in python)
