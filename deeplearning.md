@@ -20,12 +20,19 @@
 
 - https://www.citylab.com/life/2014/04/first-look-how-googles-self-driving-car-handles-city-streets/8977/ (Google av)
 - [Deep Learning for decision - Youtube](https://www.youtube.com/watch?v=EtMyH_--vnU)
+- ***Recurrent Network:***
+- https://www.youtube.com/watch?v=BwmddtPFWtA
+- https://www.youtube.com/watch?v=4rG8IsKdC3U
+- https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
+- https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+- http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/ >> https://gist.github.com/hnykda/c362f0ad488e3b289394
 
 ### A Faire
 - http://adventuresinmachinelearning.com/neural-networks-tutorial/ (Neural Net from scratch in python)
 - https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/ (Viz ConvNet)
 - https://github.com/apache/incubator-mxnet/tree/master/example/svm_mnist (mxnet svm)
 - http://scikit-learn.org/stable/auto_examples/applications/plot_model_complexity_influence.html#sphx-glr-auto-examples-applications-plot-model-complexity-influence-py (scikit-learn)
+
 
 ---
 # Machine Learning / Deep Learning
@@ -55,6 +62,7 @@
 
 - [**MXNet**](https://mxnet.incubator.apache.org/) >> [[The Straight Dope]](http://thestraightdope.mxnet.io/) >> [[GitHub - Examples]](https://github.com/apache/incubator-mxnet/tree/master/example)
 - [**Tensorflow**](https://www.tensorflow.org/) >> [[Tutorials]](https://www.tensorflow.org/tutorials/)
+- [**Keras (Tensorflow/Theano/CNTK**](https://github.com/fchollet/keras) >> [[Keras Doc]](https://keras.io/)
 - [**Caffe**](http://caffe.berkeleyvision.org/) >> [[Tour]](http://caffe.berkeleyvision.org/tutorial/) >> [[Examples]](https://github.com/BVLC/caffe/tree/master/examples)
 - [**ConvNetjs**](http://cs.stanford.edu/people/karpathy/convnetjs/) >> [[GitHub]](https://github.com/karpathy/convnetjs)
 
