@@ -20,21 +20,33 @@
 
 - https://www.citylab.com/life/2014/04/first-look-how-googles-self-driving-car-handles-city-streets/8977/ (Google av)
 - [Deep Learning for decision - Youtube](https://www.youtube.com/watch?v=EtMyH_--vnU)
-- ***Recurrent Network:***
-- https://www.youtube.com/watch?v=BwmddtPFWtA (siraj: rnn !! more links in the description)
-- https://www.youtube.com/watch?v=9zhrxE5PQgY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&index=16 (sriaj: lstm)
-- https://www.youtube.com/watch?v=4rG8IsKdC3U
-- https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
-- https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
-- http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/ (bof bof bof bof!!) >> https://gist.github.com/hnykda/c362f0ad488e3b289394
-- https://github.com/shiffman/NOC-S17-2-Intelligence-Learning/blob/master/week6-rnn-tensorflow/README.md (daniel shiffman)
-- https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/
 
 ### A Faire
 - http://adventuresinmachinelearning.com/neural-networks-tutorial/ (Neural Net from scratch in python)
 - https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/ (Viz ConvNet)
 - https://github.com/apache/incubator-mxnet/tree/master/example/svm_mnist (mxnet svm)
 - http://scikit-learn.org/stable/auto_examples/applications/plot_model_complexity_influence.html#sphx-glr-auto-examples-applications-plot-model-complexity-influence-py (scikit-learn)
+
+---
+### ***Recurrent Network:***
+- [[Keras Ressources: Tutos, Examples, ...]](https://github.com/fchollet/keras-resources)
+- [Youtube - Siraj Raval: RNN](https://www.youtube.com/watch?v=BwmddtPFWtA) (Siraj Raval : RNN !! more links in the description) ***[Done: 80%]***
+- [Youtube - Siraj Raval: LSTM](https://www.youtube.com/watch?v=9zhrxE5PQgY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&index=16) (Siraj Raval: LSTM)
+- [Youtube - RNN with Keras [Très Bof]](https://www.youtube.com/watch?v=4rG8IsKdC3U) ***[Done: 4/10]***
+- [[Article] Predicting-sequences-vectors-keras-using-rnn-lstm](http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/) *(bof bof bof bof!!)*
+- [[Article] Anyone Can Learn To Code an LSTM-RNN in Python (Ref)](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
+- [[Article] Stateful LSTM in Keras](http://philipperemy.github.io/keras-stateful-lstm/)
+- [GitHub: Daniel Shiffman NYU: Week 6 RNN tensorflow](https://github.com/shiffman/NOC-S17-2-Intelligence-Learning/blob/master/week6-rnn-tensorflow/README.md) (too see if time)
+- **Machine Learning Mastery Blog:**
+- [Sequence Classification - with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
+- [Time Series Prediction - with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+- [Time Series Forecasting with the Long Short-Term Memory Network in Python](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/)
+
+- [Stateful and Stateless LSTM for Time Series Forecasting with Python](https://machinelearningmastery.com/stateful-stateless-lstm-time-series-forecasting-python/)
+
+
+
+
 
 
 ---
@@ -65,14 +77,14 @@
 
 - [**MXNet**](https://mxnet.incubator.apache.org/) >> [[The Straight Dope]](http://thestraightdope.mxnet.io/) >> [[GitHub - Examples]](https://github.com/apache/incubator-mxnet/tree/master/example)
 - [**Tensorflow**](https://www.tensorflow.org/) >> [[Tutorials]](https://www.tensorflow.org/tutorials/)
-- [**Keras (Tensorflow/Theano/CNTK**](https://github.com/fchollet/keras) >> [[Keras Doc]](https://keras.io/)
+- [**Keras (Tensorflow/Theano/CNTK**](https://github.com/fchollet/keras) >> [[Keras Doc]](https://keras.io/) >> [[Keras Ressources: Tutos, Examples, ...]](https://github.com/fchollet/keras-resources)
 - [**Caffe**](http://caffe.berkeleyvision.org/) >> [[Tour]](http://caffe.berkeleyvision.org/tutorial/) >> [[Examples]](https://github.com/BVLC/caffe/tree/master/examples)
 - [**ConvNetjs**](http://cs.stanford.edu/people/karpathy/convnetjs/) >> [[GitHub]](https://github.com/karpathy/convnetjs)
 
 
 ### ML Frameworks
 
-- [Scikit-Learn](http://scikit-learn.org/stable/index.html) >> [[User Guide: 1.Supervised, 2.Unsupervised]](http://scikit-learn.org/stable/user_guide.html) >> [[Tutorials]](http://scikit-learn.org/stable/tutorial/index.html)
+- [**Scikit-Learn**](http://scikit-learn.org/stable/index.html) >> [[User Guide: 1.Supervised, 2.Unsupervised]](http://scikit-learn.org/stable/user_guide.html) >> [[Tutorials]](http://scikit-learn.org/stable/tutorial/index.html)
 
 
 ### Datasets
