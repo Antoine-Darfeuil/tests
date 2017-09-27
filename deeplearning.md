@@ -26,7 +26,7 @@
 - https://www.youtube.com/watch?v=4rG8IsKdC3U
 - https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
 - https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
-- http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/ >> https://gist.github.com/hnykda/c362f0ad488e3b289394
+- http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/ (bof bof bof bof!!) >> https://gist.github.com/hnykda/c362f0ad488e3b289394
 - https://github.com/shiffman/NOC-S17-2-Intelligence-Learning/blob/master/week6-rnn-tensorflow/README.md (daniel shiffman)
 - https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/
 
