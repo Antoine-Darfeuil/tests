@@ -48,7 +48,7 @@
 - https://machinelearningmastery.com/understanding-stateful-lstm-recurrent-neural-networks-python-keras/
 - Reading:
 - https://www.topbots.com/exploring-lstm-tutorial-part-1-recurrent-neural-network-deep-learning/
-
+- https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714
 
 ### Autres:
 - http://www.gperco.com/2014/05/quadcopter-stability-and-neural-networks.html
