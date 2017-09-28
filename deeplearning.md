@@ -30,6 +30,7 @@
 ---
 ### ***Recurrent Network:***
 - [[Keras Ressources: Tutos, Examples, ...]](https://github.com/fchollet/keras-resources)
+- [Harvard - LSTM Viz](http://lstm.seas.harvard.edu/)
 - [Youtube - Siraj Raval: RNN](https://www.youtube.com/watch?v=BwmddtPFWtA) (Siraj Raval : RNN !! more links in the description) ***[Done: 80%]***
 - [Youtube - Siraj Raval: LSTM](https://www.youtube.com/watch?v=9zhrxE5PQgY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&index=16) (Siraj Raval: LSTM)
 - [Youtube - RNN with Keras [Très Bof]](https://www.youtube.com/watch?v=4rG8IsKdC3U) ***[Done: 4/10]***
@@ -95,6 +96,7 @@
 - [Colah's Blog](http://colah.github.io/)
 - [Google Brain - Big Picture (Internet Browser Deep Learning Demos)](https://research.google.com/bigpicture/)
 - [Article: The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) >> [GitHub RNN Code](https://github.com/karpathy/char-rnn)
+- [Harvard - LSTM Viz](http://lstm.seas.harvard.edu/)
 - [Andrej Kaparthy Blog](http://karpathy.github.io/)
 
 ### Articles
