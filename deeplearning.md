@@ -33,10 +33,12 @@
 - [Harvard - LSTM Viz](http://lstm.seas.harvard.edu/)
 - [Youtube - Siraj Raval: RNN](https://www.youtube.com/watch?v=BwmddtPFWtA) (Siraj Raval : RNN !! more links in the description) ***[Done: 80%]***
 - [Youtube - Siraj Raval: LSTM](https://www.youtube.com/watch?v=9zhrxE5PQgY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&index=16) (Siraj Raval: LSTM)
-- [Youtube - RNN with Keras [Très Bof]](https://www.youtube.com/watch?v=4rG8IsKdC3U) ***[Done: 4/10]***
+- [Youtube - RNN with Keras](https://www.youtube.com/watch?v=4rG8IsKdC3U)[Très Bof] ***[Done: 4/10]***
+- [Youtube - LSTM Neural Networks for Time Series Prediction - IoT Data Science Conference](https://www.youtube.com/watch?v=2np77NOdnwk)
 - [[Article] Predicting-sequences-vectors-keras-using-rnn-lstm](http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/) *(bof bof bof bof!!)*
 - [[Article] Anyone Can Learn To Code an LSTM-RNN in Python (Ref)](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 - [[Article] Stateful LSTM in Keras](http://philipperemy.github.io/keras-stateful-lstm/)
+- [[Article] WildML - RNN](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 - [GitHub: Daniel Shiffman NYU: Week 6 RNN tensorflow](https://github.com/shiffman/NOC-S17-2-Intelligence-Learning/blob/master/week6-rnn-tensorflow/README.md) (too see if time)
 - **Machine Learning Mastery Blog:**
 - [Sequence Classification - with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
