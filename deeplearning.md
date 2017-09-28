@@ -33,7 +33,7 @@
 - [Harvard - LSTM Viz](http://lstm.seas.harvard.edu/)
 - [Youtube - Siraj Raval: RNN](https://www.youtube.com/watch?v=BwmddtPFWtA) (Siraj Raval : RNN !! more links in the description) ***[Done: 80%]***
 - [Youtube - Siraj Raval: LSTM](https://www.youtube.com/watch?v=9zhrxE5PQgY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&index=16) (Siraj Raval: LSTM)
-- [Youtube - RNN with Keras](https://www.youtube.com/watch?v=4rG8IsKdC3U)[Très Bof] ***[Done: 4/10]***
+- [Youtube - RNN with Keras](https://www.youtube.com/watch?v=4rG8IsKdC3U) [Très Bof] ***[Done: 4/10]***
 - [Youtube - LSTM Neural Networks for Time Series Prediction - IoT Data Science Conference](https://www.youtube.com/watch?v=2np77NOdnwk)
 - [[Article] Predicting-sequences-vectors-keras-using-rnn-lstm](http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/) *(bof bof bof bof!!)*
 - [[Article] Anyone Can Learn To Code an LSTM-RNN in Python (Ref)](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
@@ -79,7 +79,7 @@
 
 - [**MXNet**](https://mxnet.incubator.apache.org/) >> [[The Straight Dope]](http://thestraightdope.mxnet.io/) >> [[GitHub - Examples]](https://github.com/apache/incubator-mxnet/tree/master/example)
 - [**Tensorflow**](https://www.tensorflow.org/) >> [[Tutorials]](https://www.tensorflow.org/tutorials/)
-- [**Keras (Tensorflow/Theano/CNTK**](https://github.com/fchollet/keras) >> [[Keras Doc]](https://keras.io/) >> [[Keras Ressources: Tutos, Examples, ...]](https://github.com/fchollet/keras-resources)
+- [**Keras (Tensorflow/Theano/CNTK**](https://github.com/fchollet/keras) >> [[Keras Doc]](https://keras.io/) >> [[Keras Ressources: Tutos, Examples, ...]](https://github.com/fchollet/keras-resources) >> [[Examples]](https://github.com/fchollet/keras/tree/master/examples)
 - [**Caffe**](http://caffe.berkeleyvision.org/) >> [[Tour]](http://caffe.berkeleyvision.org/tutorial/) >> [[Examples]](https://github.com/BVLC/caffe/tree/master/examples)
 - [**ConvNetjs**](http://cs.stanford.edu/people/karpathy/convnetjs/) >> [[GitHub]](https://github.com/karpathy/convnetjs)
 
