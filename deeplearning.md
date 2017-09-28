@@ -47,7 +47,8 @@
 - [Stateful and Stateless LSTM for Time Series Forecasting with Python](https://machinelearningmastery.com/stateful-stateless-lstm-time-series-forecasting-python/)
 
 
-
+### Autres:
+- http://www.gperco.com/2014/05/quadcopter-stability-and-neural-networks.html
 
 
 
