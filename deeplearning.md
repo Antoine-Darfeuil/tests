@@ -46,9 +46,13 @@
 - [Time Series Forecasting with the Long Short-Term Memory Network in Python](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/)
 - [Stateful and Stateless LSTM for Time Series Forecasting with Python](https://machinelearningmastery.com/stateful-stateless-lstm-time-series-forecasting-python/)
 - https://machinelearningmastery.com/understanding-stateful-lstm-recurrent-neural-networks-python-keras/
-- Reading:
+- **Reading:**
 - https://www.topbots.com/exploring-lstm-tutorial-part-1-recurrent-neural-network-deep-learning/
 - https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714
+- **Papers:**
+- [[17 Nov 2015] Visualizing and Understanding Recurrent Networks  - (Andrej Karpathy, Justin Johnson, Li Fei-Fei)](https://arxiv.org/abs/1506.02078)
+
+
 
 ### Autres:
 - http://www.gperco.com/2014/05/quadcopter-stability-and-neural-networks.html
