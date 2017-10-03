@@ -83,7 +83,7 @@
 
 - [**MXNet**](https://mxnet.incubator.apache.org/) >> [[The Straight Dope]](http://thestraightdope.mxnet.io/) >> [[GitHub - Examples]](https://github.com/apache/incubator-mxnet/tree/master/example)
 - [**Tensorflow**](https://www.tensorflow.org/) >> [[Tutorials]](https://www.tensorflow.org/tutorials/)
-- [**Keras (Tensorflow/Theano/CNTK**](https://github.com/fchollet/keras) >> [[Keras Doc]](https://keras.io/) >> [[Keras Ressources: Tutos, Examples, ...]](https://github.com/fchollet/keras-resources) >> [[Examples]](https://github.com/fchollet/keras/tree/master/examples)
+- [**Keras (Tensorflow/Theano/CNTK)**](https://github.com/fchollet/keras) >> [[Keras Doc]](https://keras.io/) >> [[Keras Ressources: Tutos, Examples, ...]](https://github.com/fchollet/keras-resources) >> [[Examples]](https://github.com/fchollet/keras/tree/master/examples)
 - [**Caffe**](http://caffe.berkeleyvision.org/) >> [[Tour]](http://caffe.berkeleyvision.org/tutorial/) >> [[Examples]](https://github.com/BVLC/caffe/tree/master/examples)
 - [**ConvNetjs**](http://cs.stanford.edu/people/karpathy/convnetjs/) >> [[GitHub]](https://github.com/karpathy/convnetjs)
 
@@ -133,6 +133,8 @@
 ### Lectures
 
 - [Lecture](https://katefvision.github.io/)
+- [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+- [CS 294: Deep Reinforcement Learning, Fall 2017](http://rll.berkeley.edu/deeprlcourse/)
 
 
 ### RL FrameWorks
