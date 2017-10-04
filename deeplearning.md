@@ -47,9 +47,11 @@
 - [Stateful and Stateless LSTM for Time Series Forecasting with Python](https://machinelearningmastery.com/stateful-stateless-lstm-time-series-forecasting-python/)
 - https://machinelearningmastery.com/understanding-stateful-lstm-recurrent-neural-networks-python-keras/
 - **Reading:**
+- [A Gentle Introduction to Backpropagation Through Time](https://machinelearningmastery.com/gentle-introduction-backpropagation-time/)
 - https://www.topbots.com/exploring-lstm-tutorial-part-1-recurrent-neural-network-deep-learning/
 - https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714
 - **Papers:**
+- [[1997] LSTM](http://www.bioinf.jku.at/publications/older/2604.pdf)
 - [[17 Nov 2015] Visualizing and Understanding Recurrent Networks  - (Andrej Karpathy, Justin Johnson, Li Fei-Fei)](https://arxiv.org/abs/1506.02078)
 
 
