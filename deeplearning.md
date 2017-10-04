@@ -41,11 +41,12 @@
 - [[Article] WildML - RNN](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 - [GitHub: Daniel Shiffman NYU: Week 6 RNN tensorflow](https://github.com/shiffman/NOC-S17-2-Intelligence-Learning/blob/master/week6-rnn-tensorflow/README.md) (too see if time)
 - **Machine Learning Mastery Blog:**
+- [Develop Your First Neural Network in Python With Keras Step-By-Step](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
 - [Sequence Classification - with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
 - [Time Series Prediction - with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 - [Time Series Forecasting with the Long Short-Term Memory Network in Python](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/)
 - [Stateful and Stateless LSTM for Time Series Forecasting with Python](https://machinelearningmastery.com/stateful-stateless-lstm-time-series-forecasting-python/)
-- https://machinelearningmastery.com/understanding-stateful-lstm-recurrent-neural-networks-python-keras/
+- [Understanding Stateful LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/understanding-stateful-lstm-recurrent-neural-networks-python-keras/)
 - **Reading:**
 - [A Gentle Introduction to Backpropagation Through Time](https://machinelearningmastery.com/gentle-introduction-backpropagation-time/)
 - https://www.topbots.com/exploring-lstm-tutorial-part-1-recurrent-neural-network-deep-learning/
