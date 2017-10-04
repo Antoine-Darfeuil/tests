@@ -70,6 +70,8 @@
 - [Stanford - CS231n: Convolutional Neural Networks for Visual Recognition [Spring 2017]](http://cs231n.stanford.edu/syllabus.html) >> [[Lecture Notes]](http://cs231n.github.io/)
 - [Stanford - CS229: Machine Learning [Andrew Ng]](http://cs229.stanford.edu/)
 - [Université Sherbrooke - IFT 725 - Réseau neuronaux](http://info.usherbrooke.ca/hlarochelle/cours/ift725_A2013/contenu.html)
+- [Machine Learning for Artist - ML4A](http://ml4a.github.io/) >> [[Guides]](http://ml4a.github.io/guides/) >> [[Classes]](http://ml4a.github.io/classes/)
+- [Deep Learning for Coders](http://course.fast.ai/start.html)
 
 ### Books
 
@@ -79,7 +81,7 @@
 ### Moocs - Coursera
 
 - [Machine Learning [Andrew Ng]](https://www.coursera.org/learn/machine-learning)
-- [Deep Learning [Andrew Ng]](https://www.coursera.org/specializations/deep-learning)
+- [Deep Learning [Andrew Ng]](https://www.coursera.org/specializations/deep-learning) *(not free)*
 - [Neural Networks [Hinton]](https://www.coursera.org/learn/neural-networks)
 
 ### Youtube
