@@ -18,3 +18,8 @@
 
 *Seaborn is a Python visualization library based on matplotlib. 
 It provides a high-level interface for drawing attractive statistical graphics.*
+
+
+## Notes
+
+- [Stackoverflow : on Yield and Iterable/Generators](https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do)
