@@ -16,53 +16,23 @@
 #### Python
 > Python [[link]](https://github.com/Antoine-Darfeuil/tests/blob/master/python.md)
 
-### A voir [??]
-
-- https://www.citylab.com/life/2014/04/first-look-how-googles-self-driving-car-handles-city-streets/8977/ (Google av)
-- [Deep Learning for decision - Youtube](https://www.youtube.com/watch?v=EtMyH_--vnU)
-
-### A Faire
-- http://adventuresinmachinelearning.com/neural-networks-tutorial/ (Neural Net from scratch in python)
-- https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/ (Viz ConvNet)
-- https://github.com/apache/incubator-mxnet/tree/master/example/svm_mnist (mxnet svm)
-- http://scikit-learn.org/stable/auto_examples/applications/plot_model_complexity_influence.html#sphx-glr-auto-examples-applications-plot-model-complexity-influence-py (scikit-learn)
-
----
-### ***Recurrent Network:***
-- [[Keras Ressources: Tutos, Examples, ...]](https://github.com/fchollet/keras-resources)
-- [Harvard - LSTM Viz](http://lstm.seas.harvard.edu/)
-- [Youtube - Siraj Raval: RNN](https://www.youtube.com/watch?v=BwmddtPFWtA) (Siraj Raval : RNN !! more links in the description) ***[Done: 80%]***
-- [Youtube - Siraj Raval: LSTM](https://www.youtube.com/watch?v=9zhrxE5PQgY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&index=16) (Siraj Raval: LSTM)
-- [Youtube - RNN with Keras](https://www.youtube.com/watch?v=4rG8IsKdC3U) [Très Bof] ***[Done: 4/10]***
-- [Youtube - LSTM Neural Networks for Time Series Prediction - IoT Data Science Conference](https://www.youtube.com/watch?v=2np77NOdnwk)
-- [[Article] Predicting-sequences-vectors-keras-using-rnn-lstm](http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/) *(bof bof bof bof!!)*
-- [[Article] Anyone Can Learn To Code an LSTM-RNN in Python (Ref)](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
-- [[Article] Stateful LSTM in Keras](http://philipperemy.github.io/keras-stateful-lstm/)
-- [[Article] WildML - RNN](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
-- [GitHub: Daniel Shiffman NYU: Week 6 RNN tensorflow](https://github.com/shiffman/NOC-S17-2-Intelligence-Learning/blob/master/week6-rnn-tensorflow/README.md) (too see if time)
-- **Machine Learning Mastery Blog:**
-- [Develop Your First Neural Network in Python With Keras Step-By-Step](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
-- [Sequence Classification - with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
-- [Time Series Prediction - with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
-- [Time Series Forecasting with the Long Short-Term Memory Network in Python](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/)
-- [Stateful and Stateless LSTM for Time Series Forecasting with Python](https://machinelearningmastery.com/stateful-stateless-lstm-time-series-forecasting-python/)
-- [Understanding Stateful LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/understanding-stateful-lstm-recurrent-neural-networks-python-keras/)
-- **Reading:**
-- [A Gentle Introduction to Backpropagation Through Time](https://machinelearningmastery.com/gentle-introduction-backpropagation-time/)
-- https://www.topbots.com/exploring-lstm-tutorial-part-1-recurrent-neural-network-deep-learning/
-- https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714
-- **Papers:**
-- [[1997] LSTM](http://www.bioinf.jku.at/publications/older/2604.pdf)
-- [[17 Nov 2015] Visualizing and Understanding Recurrent Networks  - (Andrej Karpathy, Justin Johnson, Li Fei-Fei)](https://arxiv.org/abs/1506.02078)
 
 
 
-### Autres:
-- http://www.gperco.com/2014/05/quadcopter-stability-and-neural-networks.html
 
 
 
----
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------
 # Machine Learning / Deep Learning
 
 ### Lectures
@@ -102,11 +72,7 @@
 - [**Scikit-Learn**](http://scikit-learn.org/stable/index.html) >> [[User Guide: 1.Supervised, 2.Unsupervised]](http://scikit-learn.org/stable/user_guide.html) >> [[Tutorials]](http://scikit-learn.org/stable/tutorial/index.html)
 
 
-### Datasets
-> [Datasets Link ...](https://github.com/Antoine-Darfeuil/tests/blob/master/datasets.md)
-
-
-### Deep Learning ***
+### Deep Learning Ressources
 
 - [Colah's Blog](http://colah.github.io/)
 - [Google Brain - Big Picture (Internet Browser Deep Learning Demos)](https://research.google.com/bigpicture/)
@@ -114,11 +80,18 @@
 - [Harvard - LSTM Viz](http://lstm.seas.harvard.edu/)
 - [Andrej Kaparthy Blog](http://karpathy.github.io/)
 
-### Articles
+### Interesting Reading
+- [Article : Google AV](https://www.citylab.com/life/2014/04/first-look-how-googles-self-driving-car-handles-city-streets/8977/) (Google av)
+
+
+### Divers stuff
 
 - [Vizualizing Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 - [Neural Network from scratch in Python](http://adventuresinmachinelearning.com/neural-networks-tutorial/)
-
+- [Viz ConvNet](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) 
+- [MXNet - SVM Implementation Code GitHub](https://github.com/apache/incubator-mxnet/tree/master/example/svm_mnist) 
+- [sklearn - Plot Model Complexity Influence](http://scikit-learn.org/stable/auto_examples/applications/plot_model_complexity_influence.html#sphx-glr-auto-examples-applications-plot-model-complexity-influence-py) 
+- http://www.gperco.com/2014/05/quadcopter-stability-and-neural-networks.html
 
 ### People Ressources List
 
@@ -127,9 +100,50 @@
 
 
 
----
-# Reinforcement Learning
+------------------------------------------------------------------------------------------------------------------------
+# Recurrent Neural Network
 
+- [[Keras Ressources: Tutos, Examples, ...]](https://github.com/fchollet/keras-resources)
+- [Harvard - LSTM Viz](http://lstm.seas.harvard.edu/)
+- [Youtube - Siraj Raval: RNN](https://www.youtube.com/watch?v=BwmddtPFWtA) (Siraj Raval : RNN !! more links in the description) ***[Done: 80%]***
+- [Youtube - Siraj Raval: LSTM](https://www.youtube.com/watch?v=9zhrxE5PQgY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&index=16) (Siraj Raval: LSTM)
+- [Youtube - RNN with Keras](https://www.youtube.com/watch?v=4rG8IsKdC3U) [Très Bof] ***[Done: 4/10]***
+- [Youtube - LSTM Neural Networks for Time Series Prediction - IoT Data Science Conference](https://www.youtube.com/watch?v=2np77NOdnwk)
+- [[Article] Predicting-sequences-vectors-keras-using-rnn-lstm](http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/) *(bof bof bof bof!!)*
+- [[Article] Anyone Can Learn To Code an LSTM-RNN in Python (Ref)](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
+- [[Article] Stateful LSTM in Keras](http://philipperemy.github.io/keras-stateful-lstm/)
+- [[Article] WildML - RNN](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+- [GitHub: Daniel Shiffman NYU: Week 6 RNN tensorflow](https://github.com/shiffman/NOC-S17-2-Intelligence-Learning/blob/master/week6-rnn-tensorflow/README.md) (too see if time)
+- **Machine Learning Mastery Blog:**
+- [Develop Your First Neural Network in Python With Keras Step-By-Step](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
+- [Sequence Classification - with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
+- [Time Series Prediction - with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+- [Time Series Forecasting with the Long Short-Term Memory Network in Python](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/)
+- [Stateful and Stateless LSTM for Time Series Forecasting with Python](https://machinelearningmastery.com/stateful-stateless-lstm-time-series-forecasting-python/)
+- [Understanding Stateful LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/understanding-stateful-lstm-recurrent-neural-networks-python-keras/)
+- **Reading:**
+- [A Gentle Introduction to Backpropagation Through Time](https://machinelearningmastery.com/gentle-introduction-backpropagation-time/)
+- https://www.topbots.com/exploring-lstm-tutorial-part-1-recurrent-neural-network-deep-learning/
+- https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714
+- **Papers:**
+- [[1997] LSTM](http://www.bioinf.jku.at/publications/older/2604.pdf)
+- [[17 Nov 2015] Visualizing and Understanding Recurrent Networks  - (Andrej Karpathy, Justin Johnson, Li Fei-Fei)](https://arxiv.org/abs/1506.02078)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------
+# Reinforcement Learning
 
 ### Books
 
@@ -156,7 +170,19 @@
 - [Deep Reinforcement Learning Networks (Papers List)](https://github.com/5vision/deep-reinforcement-learning-networks)
 
 
----
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------
 # Data Science 
 
 - [Udacity - Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
@@ -172,12 +198,32 @@
 
 - [Convex Optimization [Stanford]](https://stanford.edu/~boyd/cvxbook/)
 
----
+
+
+
+---------------------------------------------------------------------------------------------------------------------------
 # Programming for Art
 
 - [Daniel Shiffman - Programming from A to Z (Fall 2017)](https://github.com/shiffman/A2Z-F17)
 
 LSTM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
@@ -186,11 +232,8 @@ LSTM
 - http://molefrog.com/pidnn-talk/ (PIDNN)
 
 
-
-
-
 ---
----
+---------------------------------------------------------------------------------------------------------------------------
 # Autres
 
 ### Convex Optimization
