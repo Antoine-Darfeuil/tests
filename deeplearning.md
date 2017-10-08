@@ -38,7 +38,7 @@
 ### Lectures
 
 - [Stanford - UFLDL Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) >> [[GitHub - Starter Code]](https://github.com/amaas/stanford_dl_ex)
-- [Stanford - CS231n: Convolutional Neural Networks for Visual Recognition [Spring 2017]](http://cs231n.stanford.edu/syllabus.html) >> [[Lecture Notes]](http://cs231n.github.io/)
+- [Stanford - CS231n: Convolutional Neural Networks for Visual Recognition [Spring 2017]](http://cs231n.stanford.edu/syllabus.html) >> [[Lecture Notes]](http://cs231n.github.io/) >> [[Projects Page]](http://cs231n.stanford.edu/project.html)
 - [Stanford - CS229: Machine Learning [Andrew Ng]](http://cs229.stanford.edu/)
 - [Université Sherbrooke - IFT 725 - Réseau neuronaux](http://info.usherbrooke.ca/hlarochelle/cours/ift725_A2013/contenu.html)
 - [Machine Learning for Artist - ML4A](http://ml4a.github.io/) >> [[Guides]](http://ml4a.github.io/guides/) >> [[Classes]](http://ml4a.github.io/classes/)
