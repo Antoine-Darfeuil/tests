@@ -20,6 +20,14 @@
 It provides a high-level interface for drawing attractive statistical graphics.*
 
 
+## Python for ML Modules
+
+### Pandas
+- [Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
+
+
+
+
 ## Notes
 
 - [Stackoverflow : on Yield and Iterable/Generators](https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do)
