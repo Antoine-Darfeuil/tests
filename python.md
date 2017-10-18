@@ -1,3 +1,7 @@
+# Learn Python
+
+- [Openclassroom : Python](https://openclassrooms.com/courses/apprenez-a-programmer-en-python)
+
 
 # Tutorial for Data Science / Machine Learning
 
@@ -27,7 +31,16 @@ It provides a high-level interface for drawing attractive statistical graphics.*
 
 
 
-
 ## Notes
 
 - [Stackoverflow : on Yield and Iterable/Generators](https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do)
+
+
+---
+
+
+# Anaconda & Conda
+
+- Conda : https://conda.io/docs/user-guide/tasks/manage-environments.html
+- pygame : https://anaconda.org/CogSci/pygame
+- opencv : https://anaconda.org/conda-forge/opencv
