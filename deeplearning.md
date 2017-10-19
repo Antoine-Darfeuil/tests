@@ -155,21 +155,22 @@
 
 ### Lectures
 
-- [Lecture](https://katefvision.github.io/)
-- [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-- [CS 294: Deep Reinforcement Learning, Fall 2017](http://rll.berkeley.edu/deeprlcourse/)
+- [Carnegie Mellon - Deep Reinforcement Learning and Control](https://katefvision.github.io/)
+- [University College London - UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+- [Berkeley - CS 294: Deep Reinforcement Learning, Fall 2017](http://rll.berkeley.edu/deeprlcourse/)
 
+### Youtube
+- [MIT 6.S094: Deep Reinforcement Learning for Motion Planning](https://www.youtube.com/watch?v=QDzM8r3WgBw&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 
 ### RL FrameWorks
 
 - [REINFORCEjs](http://cs.stanford.edu/people/karpathy/reinforcejs/index.html)
 
 
-### GitHub Repos
-
-- [Deep Reinforcement Learning Networks (Papers List)](https://github.com/5vision/deep-reinforcement-learning-networks)
-
-
+### Papers !!!
+- [Deep Reinforcement Learning Networks (GitHub Papers List) [*****]](https://github.com/5vision/deep-reinforcement-learning-networks)
+- DQN: Deep Q Network - [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602.pdf) ; [Nature Version [*****]](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf) 
+- [Learning from Delayed Reward](http://www.cs.rhul.ac.uk/~chrisw/new_thesis.pdf)
 
 
 
