@@ -161,6 +161,11 @@
 
 ### Youtube
 - [MIT 6.S094: Deep Reinforcement Learning for Motion Planning](https://www.youtube.com/watch?v=QDzM8r3WgBw&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+- [Stanford CS231n - Reinforcement Learning](https://www.youtube.com/watch?v=lvoHnicueoE&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
+### Autres
+- [Medium Blog - Practical RL: Q-Learning](https://medium.com/towards-data-science/practical-reinforcement-learning-02-getting-started-with-q-learning-582f63e4acd9)
+- [Blog: Toy example of Q Learning (with Code)](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)
 
 ### RL FrameWorks
 
