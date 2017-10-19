@@ -183,8 +183,11 @@
 
 
 
----------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
 # Data Science 
+<img src="https://secure.meetupstatic.com/photos/event/3/3/5/1/highres_456493137.jpeg"/>
+
+### MOOC
 
 - [Udacity - Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
 - [Udacity - Model Building and Validation](https://www.udacity.com/course/model-building-and-validation--ud919)
