@@ -141,6 +141,12 @@
 - [MIT 6.S094: Deep Reinforcement Learning for Motion Planning](https://www.youtube.com/watch?v=QDzM8r3WgBw&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 - [Stanford CS231n - Reinforcement Learning](https://www.youtube.com/watch?v=lvoHnicueoE&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
+### Ressources
+- [ConvNetjs - RL Q-Learning Demo](http://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
+- [REINFORCEjs - Demos](http://cs.stanford.edu/people/karpathy/reinforcejs/index.html)
+- [Karpathy Blog - Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
+- [Karpathy Blog - Deep Reinforcement Learning: Pong from Pixels : GitHub Code](https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5)
+
 ### Autres
 - [Medium Blog - Practical RL: Q-Learning](https://medium.com/towards-data-science/practical-reinforcement-learning-02-getting-started-with-q-learning-582f63e4acd9)
 - [Blog: Toy example of Q Learning (with Code)](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)
@@ -154,6 +160,7 @@
 ### Papers !!!
 - [Deep Reinforcement Learning Networks (GitHub Papers List) [*****]](https://github.com/5vision/deep-reinforcement-learning-networks)
 - DQN: Deep Q Network - [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602.pdf) ; [Nature Version [*****]](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf) 
+- DDPG Paper : http://proceedings.mlr.press/v32/silver14.pdf
 - [Learning from Delayed Reward](http://www.cs.rhul.ac.uk/~chrisw/new_thesis.pdf)
 
 
