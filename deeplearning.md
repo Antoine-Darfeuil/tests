@@ -1,9 +1,6 @@
 
-
 #### En Cours
-> [[Link]](https://github.com/Antoine-Darfeuil/tests/blob/master/deeplearning_encours.md)
-
-#### Python
+> Notes [[Link]](https://github.com/Antoine-Darfeuil/tests/blob/master/deeplearning_encours.md)
 > Python [[link]](https://github.com/Antoine-Darfeuil/tests/blob/master/python.md)
 
 
