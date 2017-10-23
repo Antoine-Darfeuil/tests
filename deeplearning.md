@@ -151,6 +151,7 @@
 - [Medium Blog - Practical RL: Q-Learning](https://medium.com/towards-data-science/practical-reinforcement-learning-02-getting-started-with-q-learning-582f63e4acd9)
 - [Blog: Toy example of Q Learning (with Code)](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)
 - [GitHub - Collection of Reinforcement Learning Algorithms written in Tensorflow](https://github.com/awjuliani/DeepRL-Agents)
+- [2048 Reinforcement Learning](https://github.com/tjwei/2048-NN)
 
 ### RL FrameWorks
 
