@@ -160,9 +160,9 @@
 ### Papers !!!
 - [Deep Reinforcement Learning Networks (GitHub Papers List) [*****]](https://github.com/5vision/deep-reinforcement-learning-networks)
 - DQN: Deep Q Network - [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602.pdf) ; [Nature Version [*****]](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf) 
-- DDPG Paper : http://proceedings.mlr.press/v32/silver14.pdf
+- DDPG Paper : [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf)
 - [Learning from Delayed Reward](http://www.cs.rhul.ac.uk/~chrisw/new_thesis.pdf)
-
+- A3C Paper - [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)
 
 
 
