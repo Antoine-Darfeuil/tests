@@ -140,6 +140,8 @@
 ### Youtube
 - [MIT 6.S094: Deep Reinforcement Learning for Motion Planning](https://www.youtube.com/watch?v=QDzM8r3WgBw&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 - [Stanford CS231n - Reinforcement Learning](https://www.youtube.com/watch?v=lvoHnicueoE&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+- [MIT 6.S191 Lecture 6: Deep Reinforcement Learning](https://www.youtube.com/watch?v=xWe58WGWmlk)
+- [Deep Reinforcement Learning (John Schulman, OpenAI)](https://www.youtube.com/watch?v=PtAIh9KSnjo)
 
 ### Ressources
 - [ConvNetjs - RL Q-Learning Demo](http://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
