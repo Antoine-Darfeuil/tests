@@ -6,7 +6,7 @@
 
 - https://github.com/fmirus/torcs_ros
 - https://github.com/YurongYou/rlTORCS#customize-the-race
-
+- https://anqil.people.clemson.edu/blog.html
 
 
 
