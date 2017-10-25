@@ -8,6 +8,7 @@
 - https://github.com/YurongYou/rlTORCS#customize-the-race
 - https://anqil.people.clemson.edu/blog.html
 - https://download.tuxfamily.org/debux/torcs/tracks/Torcs_track-Tut-FR.pdf
+- https://github.com/ugo-nama-kun/gym_torcs/issues/7
 
 
 ---------------------------------------------------------------------------------------------------------------------------
