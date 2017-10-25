@@ -9,6 +9,7 @@
 - https://anqil.people.clemson.edu/blog.html
 - https://download.tuxfamily.org/debux/torcs/tracks/Torcs_track-Tut-FR.pdf
 - https://github.com/ugo-nama-kun/gym_torcs/issues/7
+- http://www.diva-portal.org/smash/get/diva2:524824/FULLTEXT01 
 
 
 ---------------------------------------------------------------------------------------------------------------------------
