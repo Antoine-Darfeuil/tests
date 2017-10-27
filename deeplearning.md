@@ -13,7 +13,10 @@
 
 ---
 ##### Linux
-- https://ryanstutorials.net/bash-scripting-tutorial/bash-input.php
+- https://ryanstutorials.net/bash-scripting-tutorial/bash-input.php bash script tuto
+- https://www.lifewire.com/compare-two-text-files-linux-3861434 compare files
+- https://www.lifewire.com/bashrc-file-4101947 bashrc ...
+- https://www.lifewire.com/patch-linux-command-unix-command-4097158 create/apply a patch
 
 
 ---------------------------------------------------------------------------------------------------------------------------
