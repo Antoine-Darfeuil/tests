@@ -11,6 +11,10 @@
 - https://github.com/ugo-nama-kun/gym_torcs/issues/7
 - http://www.diva-portal.org/smash/get/diva2:524824/FULLTEXT01 
 
+---
+##### Linux
+- https://ryanstutorials.net/bash-scripting-tutorial/bash-input.php
+
 
 ---------------------------------------------------------------------------------------------------------------------------
 # Machine Learning / Deep Learning
