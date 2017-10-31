@@ -19,7 +19,7 @@
 - https://blog.openai.com/better-exploration-with-parameter-noise/ OpenAI: Parameter Noise
 - https://blog.openai.com/evolution-strategies/ OpenAI: Evolution Strategies vs RL >> [Notebook](https://github.com/karpathy/randomfun/blob/master/es.ipynb) >> [Code GitHub](https://github.com/openai/evolution-strategies-starter)
 - https://blog.openai.com/openai-baselines-dqn/ OpenAI Baselines DQN >> [Notebook](https://github.com/openai/baselines-results/blob/master/dqn_results.ipynb)
-- 
+- https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner DeepMind Q learner
 
 
 ---
