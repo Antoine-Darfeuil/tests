@@ -12,6 +12,17 @@
 - http://www.diva-portal.org/smash/get/diva2:524824/FULLTEXT01 
 
 ---
+### Lecture
+- https://github.com/openai/gym OpenAI Gym
+- https://gym.openai.com/docs/ OpenAI Gym Doc
+- https://github.com/openai/baselines OpenAI Baselines GitHub
+- https://blog.openai.com/better-exploration-with-parameter-noise/ OpenAI: Parameter Noise
+- https://blog.openai.com/evolution-strategies/ OpenAI: Evolution Strategies vs RL >> [Notebook](https://github.com/karpathy/randomfun/blob/master/es.ipynb) >> [Code GitHub](https://github.com/openai/evolution-strategies-starter)
+- https://blog.openai.com/openai-baselines-dqn/ OpenAI Baselines DQN >> [Notebook](https://github.com/openai/baselines-results/blob/master/dqn_results.ipynb)
+- 
+
+
+---
 ##### Linux
 - https://ryanstutorials.net/bash-scripting-tutorial/bash-input.php bash script tuto
 - https://www.lifewire.com/compare-two-text-files-linux-3861434 compare files
