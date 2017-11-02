@@ -154,7 +154,7 @@
 ### Lectures
 
 - [Carnegie Mellon - Deep Reinforcement Learning and Control](https://katefvision.github.io/)
-- [University College London - UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+- [University College London - UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) *(Ref.)*
 - [Berkeley - CS 294: Deep Reinforcement Learning, Fall 2017](http://rll.berkeley.edu/deeprlcourse/)
 
 ### Youtube
@@ -170,6 +170,7 @@
 - [Karpathy Blog - Deep Reinforcement Learning: Pong from Pixels : GitHub Code](https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5)
 
 ### Autres
+- [pyTorch - Reinforcement Learning - DQN tutorial [****]](http://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html#)
 - [Medium Blog - Simple Reinforcement Learning Series](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
 - [Medium Blog - Practical RL: Q-Learning](https://medium.com/towards-data-science/practical-reinforcement-learning-02-getting-started-with-q-learning-582f63e4acd9)
 - [Blog: Toy example of Q Learning (with Code)](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)
