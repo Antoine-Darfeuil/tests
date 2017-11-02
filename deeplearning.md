@@ -170,6 +170,7 @@
 - [Karpathy Blog - Deep Reinforcement Learning: Pong from Pixels : GitHub Code](https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5)
 
 ### Autres
+- [Medium Blog - Simple Reinforcement Learning Series](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
 - [Medium Blog - Practical RL: Q-Learning](https://medium.com/towards-data-science/practical-reinforcement-learning-02-getting-started-with-q-learning-582f63e4acd9)
 - [Blog: Toy example of Q Learning (with Code)](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)
 - [GitHub - Collection of Reinforcement Learning Algorithms written in Tensorflow](https://github.com/awjuliani/DeepRL-Agents)
