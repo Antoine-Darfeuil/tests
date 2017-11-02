@@ -158,7 +158,7 @@
 - [Berkeley - CS 294: Deep Reinforcement Learning, Fall 2017](http://rll.berkeley.edu/deeprlcourse/)
 
 ### Youtube
-- [MIT 6.S094: Deep Reinforcement Learning for Motion Planning](https://www.youtube.com/watch?v=QDzM8r3WgBw&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+- [MIT 6.S094: Deep Reinforcement Learning for Motion Planning](https://www.youtube.com/watch?v=QDzM8r3WgBw&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) *(Lex Fridman)*
 - [Stanford CS231n - Reinforcement Learning](https://www.youtube.com/watch?v=lvoHnicueoE&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 - [MIT 6.S191 Lecture 6: Deep Reinforcement Learning](https://www.youtube.com/watch?v=xWe58WGWmlk)
 - [Deep Reinforcement Learning (John Schulman, OpenAI)](https://www.youtube.com/watch?v=PtAIh9KSnjo)
@@ -171,6 +171,7 @@
 
 ### Autres
 - [pyTorch - Reinforcement Learning - DQN tutorial [****]](http://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html#)
+- [Keras & DDPG](https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html)
 - [Medium Blog - Simple Reinforcement Learning Series](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
 - [Medium Blog - Practical RL: Q-Learning](https://medium.com/towards-data-science/practical-reinforcement-learning-02-getting-started-with-q-learning-582f63e4acd9)
 - [Blog: Toy example of Q Learning (with Code)](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)
