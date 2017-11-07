@@ -24,6 +24,7 @@
 
 ---
 ##### Linux
+- http://lhe.ib.usp.br/BIZ0433/lib/exe/fetch.php?media=literature:slever_et_al_2009.pdf Linux in a Nutshell PDF [Ref]
 - https://ryanstutorials.net/bash-scripting-tutorial/bash-input.php bash script tuto
 - https://www.lifewire.com/compare-two-text-files-linux-3861434 compare files
 - https://www.lifewire.com/bashrc-file-4101947 bashrc ...
