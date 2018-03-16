@@ -4,6 +4,10 @@ Only for test purposes
 - https://github.com/jmcmanus/pagedown-extra "Pagedown Extra Link"
 
 
+# Deep Learning Lecture
+
+- http://web.stanford.edu/class/cs20si/index.html
+
 
 # Deep Learning
 
